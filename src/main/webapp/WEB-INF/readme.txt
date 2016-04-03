@@ -1,0 +1,1 @@
+This WEB INF folder is for Vaadin Runtime
