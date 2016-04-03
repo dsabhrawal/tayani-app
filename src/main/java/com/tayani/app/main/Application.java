@@ -22,7 +22,7 @@ public class Application {
 		// print logback's internal status
 		StatusPrinter.print(lc);
 
-		logger.debug("------------------------Starting Tayani App------------------------");
+		logger.debug("------------------------Starting Tayani App From Github ------------------------");
 		SpringApplication.run(Application.class);
 
 	}
